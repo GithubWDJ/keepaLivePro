@@ -23,6 +23,4 @@ https://keepalive-xie.oss-cn-hangzhou.aliyuncs.com/keepAlive.apk
 
 ![安卓](https://keepalive-xie.oss-cn-hangzhou.aliyuncs.com/img/oppo.gif)
 
-## 微信（添加时请备注保活）
 
-wkxiaoxie
